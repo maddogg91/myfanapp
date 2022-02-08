@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "819889425911-i1vcia6b8kj191m6mjng69jccfkij097.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdgsdc.fanpage",
+            "certificate_hash": "14186a87dc4418e61d8e9dcd2f93cfff4a03ec6d"
+          }
+        },
+        {
           "client_id": "819889425911-v1hp9gh665utbb168k0t11edg4uga22v.apps.googleusercontent.com",
           "client_type": 3
         }
